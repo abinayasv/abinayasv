@@ -30,11 +30,12 @@ At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/)
 ## 𝐓ECHNICAL SKILLS 🚀
 
 • Database  <br />
-• Programming : Python and Frontend   <br />
+• Programming : Python  <br />
 • AWS - Ec2, Aws Lambds, S3, EMR, CloudWatch, CloudFormation,Codepipeline <br />
 • Big Data Frameworks <br />
 • Querying Tools - Hive, Pig <br />
 • Analytical Tools - PowerBi, Tableau <br /> 
+• Service Delivery<br /> 
 
 ## CloudNative SKILLS <img src="https://github.com/abinayasv/abinayasv/assets/69671704/d093e348-a244-4505-a1b0-156c4be3bca3" height ="20" width="20"/>
 
@@ -62,8 +63,8 @@ At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/)
 
 ## My TECHNICAL CONTRIBUTION - Big Data Engineering Foundation
 
-  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻  𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 <img src= "https://github.com/abinayasv/abinayasv/assets/69671704/5a1b28f3-8454-4d82-b443-26b201c3eda1" height="40" width="40"/>
- - Stay Tuned on my LinkedIn page to get insights about technology stacks. Below is my 
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻  𝗖𝗼𝗻𝘁𝗲𝗻𝘁  <img src= "https://github.com/abinayasv/abinayasv/assets/69671704/5a1b28f3-8454-4d82-b443-26b201c3eda1" height="40" width="40"/>
+Stay Tuned on my LinkedIn page to get insights about technology stacks. Below is my 
   
   **Big data series** 
 
@@ -107,104 +108,43 @@ At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/)
 
   
 
-## BLOGS
+## <a href="https://medium.com/@abinayasv" target="_blank"> <img src ="https://github.com/abinayasv/abinayasv/assets/69671704/8cb93017-365d-42e3-b76a-f86533c36263" height ="30" width="50"/> </a> BLOGS
 
-- [AWS Cloud  - AWS Career (𝐑𝐨𝐚𝐝 𝐦𝐚𝐩 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐀𝐖𝐒 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫- 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀)](https://medium.com/cloudnloud/want-to-become-a-aws-data-engineer-94f441454334)
-- [AWS Cloud Services - AWS GLUE (𝗔𝗪𝗦 𝗚𝗹𝘂𝗲 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 — 𝗧𝗵𝗲 𝗘𝗧𝗟 𝗣𝗿𝗼𝗰𝗲𝘀𝘀 𝗞𝗲𝘆 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀)](https://rb.gy/79pay)
-- [AWS Cloud Services - Amazon QuickSight (𝗔𝗺𝗮𝘇𝗼𝗻 𝗤𝘂𝗶𝗰𝗸𝗦𝗶𝗴𝗵𝘁 — 𝗔 𝗖𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮 𝗩𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀)](https://rb.gy/22jzk)
-- [AWS Cloud Services - 𝗔𝗪𝗦 𝗥𝗲𝗱𝘀𝗵𝗶𝗳𝘁 , How to work with streaming data in Redshift](https://rb.gy/9ja9i)
-- [AWS Cloud Services - 𝗔𝗪𝗦 𝗘𝗹𝗮𝘀𝘁𝗶𝗰 𝗕𝗲𝗮𝗻𝘀𝘁𝗮𝗹𝗸, 𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀](https://rb.gy/0bko0)
-- [CI/CD (𝗖𝗜/𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗙𝗹𝗼𝘄 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱](https://rb.gy/dmhpo)
-- [Reviewed an AWS Article for a AWS Community Builder (𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗳𝗮𝗰𝘁𝗼𝗿 𝗮 𝟯-𝘁𝗶𝗲𝗿 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲)](https://shorturl.ac/7an7f)
-        
-  **Upcoming Blog** <br />
-How business can make Decision on chossing Databases in AWS <br />
-
-
-## 𝗠𝘆 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝘁𝗼 𝗠𝗲𝗻𝘁𝗼𝗿 𝗬𝗼𝘂𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗔𝗪𝗦𝗖𝗟𝗢𝗨𝗗
-
-𝗔𝗪𝗦 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗣𝗲𝗿𝘀𝗼𝗻 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗲𝗴𝗲𝘀
-- [CTTE College for Women   - AWS Cloud , AWS Career, AWS mini Projects](https://rb.gy/h791j)
-- [Jaya Engineering College - AWS Cloud , AWS Career, AWS mini Projects](https://rb.gy/rru8x) <br />
-
-  Meetup images:
-  
-<div style="display:flex;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-05-13%20at%203.15.03%20PM.jpeg" alt="Image 1" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.35%20PM.jpeg" alt="Image 2" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM%20(2).jpeg" alt="Image 3" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/WhatsApp%20Image%202023-06-29%20at%201.09.13%20PM.jpeg" alt="Image 4" style="width:40%;">
- 
-</div>
-
-<div style="display:flex;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.37%20PM.jpeg" alt="Image 5" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.19.38%20PM.jpeg" alt="Image 6" style="width:40%;">
-  <img src="https://github.com/jananitv20/Meetups/raw/main/WhatsApp%20Image%202023-07-01%20at%208.52.20%20PM.jpeg" alt="Image 7" style="width:40%;">
-  </div>
+- [ROADMAP TO BECOME AN DATA ENGINEER](https://medium.com/cloudnloud/who-is-data-engineers-and-what-are-the-roles-8f177cee4bba)
+- [HDFS ARCHITECHTUTRE](https://medium.com/cloudnloud/hdfs-architecture-3c838c38b9a5)
+- [MAPREDUCE CONCEPT](https://medium.com/cloudnloud/mapreduce-60b174e4252f)
+- [APACHE HIVE](https://medium.com/cloudnloud/apache-hive-924879e2d22c)
 
 
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
 
-## ROLE 1: # 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 @CloudnLoud Tech Community
-
+## ROLE 1: # BIG DATA COMMUNITY BUILDER
 <P>
-I am part of CloudnLoud Tech Community as 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 where I work on AWS POCs and explore the AWSservices. I have been contributing to the communities by AWS Posts and Blogs , Technical AWS meetups ,teaching AWS in simple ways and clarifying doubts with respect to AWS and the services.
+As a member of the CloudnLoud Tech Community's Big Data Community Builder, I work directly with big data and investigate AWS and Azure technologies to construct the data pipeline.
+
+I have been giving back to the communities by writing blog posts, attending technical meetings, and imparting knowledge to my colleagues.
+
+We are learning from one another and developing as a community. We are a nonprofit organization that helps young people with career assistance.
+
 We are part of this for good cause to save millions of Cancer children.
 
-- [My 𝘼𝙒𝙎 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼-𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗦𝟯 𝘁𝗿𝗶𝗴𝗴𝗲𝗿 𝘃𝗶𝗮 𝗔𝗪𝗦 𝗟𝗮𝗺𝗯𝗱𝗮 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗺 ](https://youtu.be/rtkR8wdxEbw)
-- [My 𝘼𝙒𝙎 𝗩𝗶𝗱𝗲𝗼 𝗼𝗻 𝟱 𝗦𝘁𝗲𝗽𝘀 𝘁𝗼 𝘀𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗰𝗮𝗿𝗲𝗲𝗿 in Amazon Web Service -AWS ](https://www.linkedin.com/posts/jananitv_connections-letsgrowtogether-cloudnloud-activity-7024263532628123648-bCUq?utm_source=share&utm_medium=member_desktop)
-- [AWS 𝗩𝗶𝗱𝗲𝗼 on Interviewing Senior 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩 𝙘𝙪𝙢 𝘼𝙒𝙎 𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮 𝘽𝙪𝙞𝙡𝙙𝙚𝙧 (𝘼𝙒𝙎 𝘾𝙡𝙤𝙪𝙙 𝙏𝙖𝙡𝙠 𝙬𝙞𝙩𝙝 𝙎𝙚𝙣𝙞𝙤𝙧 𝘼𝙒𝙎 𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩)](https://rb.gy/f5dl9) 
-- [I 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲𝗱 𝗮 𝗩𝗶𝗱𝗲𝗼 𝗵𝗮𝗻𝗱𝘀𝗼𝗻 to create 𝗔𝗪𝗦 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 and interact with linux Commands ](https://shorturl.ac/7an71)
-- [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://rb.gy/soutj)
-- [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗘𝘃𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/5hugo)
-- [AWS SUMMIT Mumbai event certificate](https://rb.gy/7yap2)
-- [AWS Cloud Certification - Roadmap to certification and levels](https://rb.gy/xop4e)
-- [AWS Cloud Services - 6 Reasons why Cloud Computing is Future](https://shorturl.ac/7an7i)
-- [My Oscar Award from AWS Community Builder](https://rb.gy/vcu3h)
-- [AWS Cloud Services - AWS EC2 Billing optimization Technique](https://rb.gy/qe7gb)
-
-
-## ROLE 2: # 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗟𝗲𝗮𝗱𝗲𝗿 / 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗖𝗼-𝗼𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗿 / 𝗖𝗟𝗼𝘂𝗱 𝗗𝗮𝘁𝗮 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 @𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮
-
-<P>
-I am part of 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 Core team and Leading AWS Data team.
-
-I Organzie tech talk and physical AWS meetups , also Travel to college to mentor studnets to learn AWSCLOUD.
-
-At Cloudnloud Data/Gen AI/ML Labs India, we are organizing free AWS tech sessions , technical trainings and technical discussions on various IT technologies & open source tools.
-
-# I am Leader and Co-organizer at CloudnLoud Data/Gen AL/ML Labs India with around 1000 Followers
-
-<a href="https://www.meetup.com/cloudnloud-genai-labs/members/?op=leaders" target="_blank">
-<img src=https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label= alt=meetup style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/company/aws-data-user-group-bangalore" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-𝗔𝗪𝗦 𝗧𝗲𝗰𝗵 𝗠𝗲𝗲𝘁𝘂𝗽:
-- [My 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗪𝗦 𝗺𝗲𝗲𝘁𝘂𝗽 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 alongside Senior AWS Architects (𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗲𝗱 𝗔𝗪𝗦 𝗠𝗲𝗲𝘁𝘂𝗽𝘀 𝗳𝗼𝗿 𝗘𝘅𝗽𝗲𝗿𝘁 𝗧𝗲𝗰𝗵𝗧𝗮𝗹𝗸)](https://rb.gy/fr13j)  
-- [𝗔𝗪𝗦 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗳𝗼𝗿 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀 on AWS Career guidance and its services](https://rb.gy/lzbrh)  
-I'm Speaking and demonstrating at 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 <br />
-𝗧𝗼𝗽𝗶𝗰 : 𝗖𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗘𝗧𝗟 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲 𝗳𝗼𝗿 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗶𝗻𝘀𝗶𝗴𝗵𝘁 𝘂𝘀𝗶𝗻𝗴 𝗔𝗪𝗦 𝗚𝗹𝘂𝗲
-- [AWS Cloud Services - AWS Glue](https://rb.gy/sdtmx)
-</p>
 
 # images :)
 
 <div style="display:flex;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/AWS%20SUMMIT.jpeg" alt="Image 10" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/ambas.jpeg" alt="Image 11" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/Jaya.jpeg" alt="Image 12" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/Screenshot%202023-07-02%20210136.png" alt="Image 12" style="width:30%;"> 
-  <img src="https://github.com/jananitv20/Meetups/blob/main/ctte.jpeg" alt="Image 13" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/boomi%20(2).jpeg" alt="Image 14" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/b2.jpeg" alt="Image 15" style="width:30%;">
-  <img src="https://github.com/jananitv20/Meetups/blob/main/aws%20interview.png" alt="Image 16" style="width:30%;">
+  <img src="https://github.com/abinayasv/abi-images/blob/main/Structure%20the%20data%20into%20insights!%20(1).png" alt="Image 10" style="width:30%;">
+  <img src="https://github.com/abinayasv/abi-images/blob/main/Table%20level%20Opti.png" alt="Image 11" style="width:30%;">
+  <img src="https://github.com/abinayasv/abi-images/blob/main/monolithic.png" alt="Image 12" style="width:30%;">
+  <img src="https://github.com/abinayasv/abi-images/blob/main/WhatsApp%20Image%202023-08-09%20at%2014.26.14.jpeg" alt="Image 12" style="width:30%;"> 
+  <img src="https://github.com/abinayasv/abi-images/blob/main/tables.jpg" alt="Image 13" style="width:30%;">
 </div>
+
+# AWS DATA PIPELINE (Content Contribution)
+
+- [𝘼𝙒𝙎 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼-𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗦𝟯 𝘁𝗿𝗶𝗴𝗴𝗲𝗿 𝘃𝗶𝗮 𝗔𝗪𝗦 𝗟𝗮𝗺𝗯𝗱𝗮 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗺 ](https://youtu.be/rtkR8wdxEbw)
+- [I 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲𝗱 𝗮 𝗩𝗶𝗱𝗲𝗼 𝗵𝗮𝗻𝗱𝘀𝗼𝗻 to create 𝗔𝗪𝗦 𝗘𝗖𝟮 𝗶𝗻𝘀𝘁𝗮𝗻𝗰𝗲 and interact with linux Commands ](https://shorturl.ac/7an71)
+- [AWS Data Brainstrom Session with Cloudnloud Tech Community](https://rb.gy/soutj)
 
 
 # AWS Cloud Free 2 months Internship - Week 1 (Content Contribution)
