@@ -36,7 +36,7 @@ At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/)
 • Querying Tools - Hive, Pig <br />
 • Analytical Tools - PowerBi, Tableau <br /> 
 
-## CloudNative SKILLS <img src="https://github.com/abinayasv/abinayasv/assets/69671704/d093e348-a244-4505-a1b0-156c4be3bca3" width="20"/>
+## CloudNative SKILLS <img src="https://github.com/abinayasv/abinayasv/assets/69671704/d093e348-a244-4505-a1b0-156c4be3bca3" height ="20" width="20"/>
 
 • Database - Cassandra, Apache Hadoop , Mysql, MongoDB, Oracle <br />
 • Streaming and messaging- Kafka and spark <br />
@@ -57,12 +57,15 @@ At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/)
 </a> 
 
 :mailbox: Mail - abinayadevisv2001@gmail.com <br /><br />
-📝 I regularly write BIG DATA, SQL and CLOUD  Blogs on [Abi's Medium Blogs](https://medium.com/@abinayasv) <br /><br />
+📝 I regularly write BIG DATA, SQL, and CLOUD  Blogs on [Abi's Medium Blogs](https://medium.com/@abinayasv) <br /><br />
 📝 I consistently share my Content [Check out my linkedin](https://www.linkedin.com/in/abinayasv/) <br /><br />
 
 ## My TECHNICAL CONTRIBUTION - Big Data Engineering Foundation
 
-  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻  𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 - Stay Tuned on my linkein page to get insights about technology stacks . Below is my Big data series 
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻  𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 <img src= "https://github.com/abinayasv/abinayasv/assets/69671704/5a1b28f3-8454-4d82-b443-26b201c3eda1" height="40" width="40"/>
+ - Stay Tuned on my LinkedIn page to get insights about technology stacks. Below is my 
+  
+  **Big data series** 
 
 - [Big Data Bytes - Introduction](https://www.linkedin.com/posts/abinayasv_introduction-of-big-data-activity-7049070223517253632--WaV?utm_source=share&utm_medium=member_android)
 - [Big Data Bytes - Skills](https://www.linkedin.com/posts/abinayasv_who-is-data-engineers-and-what-are-the-roles-activity-7050171402569613313-W6k8?utm_source=share&utm_medium=member_android)
@@ -90,7 +93,17 @@ At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/)
 - [Big Data Bytes - Table Level Optimization handson](https://www.linkedin.com/posts/abinayasv_table-level-optimization-hands-on-activity-7093247049374052352-GX6v?utm_source=share&utm_medium=member_android)
 - [Big Data Bytes - Hive and Spark](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-hive-activity-7093648134723031040-QYoS?utm_source=share&utm_medium=member_android)
 
- 
+**SQL series** 
+ - [SQL - SQL SERIES](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-bigdata-activity-7065463676555726848-0yYF?utm_source=share&utm_medium=member_android)
+ - [SQL - SQL COMMANDS](https://www.linkedin.com/posts/abinayasv_sql-series-activity-7068269026744930304-M7Yp?utm_source=share&utm_medium=member_android)
+ - [SQL - UNIQUE RECORDS](https://www.linkedin.com/posts/abinayasv_unique-records-activity-7068674651190661120-GgaG?utm_source=share&utm_medium=member_android)
+ - [SQL - SQL CONSTRAINTS](https://www.linkedin.com/posts/abinayasv_sql-seriesconstraints-activity-7069036735116034048-qcjI?utm_source=share&utm_medium=member_android)
+ - [SQL - LARGEST NUMBER](https://www.linkedin.com/posts/abinayasv_second-largest-activity-7069381060358205440-bsyU?utm_source=share&utm_medium=member_android)
+ - [SQL - RANK AND DENSE RANK](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-sql-activity-7090252417098805249-e2cQ?utm_source=share&utm_medium=member_android)
+ - [SQL - ROW NUMBER](https://www.linkedin.com/posts/abinayasv_30dayssqlchallenge-sql-bigdata-activity-7090691874344075264-ryCo?utm_source=share&utm_medium=member_android)
+ - [SQL - LAG AND LEAD](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-sql-activity-7091840868445278208-iP64?utm_source=share&utm_medium=member_android)
+ - [SQL - AGGREGATE AND WINDOW](https://www.linkedin.com/posts/abinayasv_30dayssqlchallenge-sql-bigdata-activity-7092040149437448192-hp3g?utm_source=share&utm_medium=member_android)
+ - [SQL - GROUP BY NAD HAVING](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-bigdata-activity-7092459830174519296-3fMx?utm_source=share&utm_medium=member_android)
 
   
 
