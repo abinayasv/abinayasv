@@ -36,8 +36,8 @@ At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/)
 • Querying Tools - Hive, Pig <br />
 • Analytical Tools - PowerBi, Tableau <br /> 
 
-## CloudNative SKILLS ![image](https://github.com/abinayasv/abinayasv/assets/69671704/d093e348-a244-4505-a1b0-156c4be3bca3)
-🚀
+## CloudNative SKILLS <img src="https://github.com/abinayasv/abinayasv/assets/69671704/d093e348-a244-4505-a1b0-156c4be3bca3" width="100"/>
+
 • Database - Cassandra, Apache Hadoop , Mysql, MongoDB, Oracle <br />
 • Streaming and messaging- Kafka and spark <br />
 • AWS Services <br/>
