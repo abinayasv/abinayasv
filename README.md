@@ -130,7 +130,7 @@ We are learning from one another and developing as a community. We are a nonprof
 We are part of this for good cause to save millions of Cancer children.
 
 
-# images :)
+# Images :)
 
 <div style="display:flex;">
   <img src="https://github.com/abinayasv/abi-images/blob/main/Structure%20the%20data%20into%20insights!%20(1).png" alt="Image 10" style="width:30%;">
