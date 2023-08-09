@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there All, Abi Here!! 👋😄
-I'm [Abinaya Devi SV](https://www.linkedin.com/in/abinayasv), having a couple of years of experience, focusing on cloud computing (AWS), and a strong interest in data science and engineering. <br/>
+I'm [Abinaya Devi SV](https://www.linkedin.com/in/abinayasv), Data Consultant, having a couple of years of experience, focusing on cloud computing (AWS), and a strong interest in data science and engineering. <br/>
 
-At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/), Im a key team member and a BIG DATA COMMUNITY BUILDER. Competent with Python and SQL for problem-solving and data architecture. I'd love to contribute to ventures which involve content creation and career mentoring. " Do impart your knowledge and develop together 🌱"
+At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/), Im a key team member and a BIG DATA COMMUNITY BUILDER. Competent with Python and SQL for problem-solving and data architecture. I'd love to contribute to ventures which involve content creation and career mentoring. <br />
+
+" Do impart your knowledge and develop together 🌱"
 
 ## 𝐓ECHNICAL SKILLS 🚀
 
@@ -35,8 +37,8 @@ At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/)
 • Analytical Tools - PowerBi, Tableau <br /> 
 
 ## CloudNative SKILLS 🚀
-• Database - Cassandra, Apache Hadoop ,Mysql, MongoDB , Oracle <br />
-• Straming and messaging- Kafka and spark <br />
+• Database - Cassandra, Apache Hadoop , Mysql, MongoDB, Oracle <br />
+• Streaming and messaging- Kafka and spark <br />
 • AWS Services <br/>
 • Orchestration & Management - Kubernetes
 
@@ -53,9 +55,9 @@ At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/)
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
 
-:mailbox: Mail - abinayadevisv2001@gmail.com <br />
-📝 I regularly write big data, sql and cloud  Blogs on [Abi's Medium Blogs](https://medium.com/@abinayasv) <br />
-📝 I consistently share my Contents [Check out my linkedin](https://www.linkedin.com/in/abinayasv/) <br />
+:mailbox: Mail - abinayadevisv2001@gmail.com <br /><br />
+📝 I regularly write BIG DATA, SQL and CLOUD  Blogs on [Abi's Medium Blogs](https://medium.com/@abinayasv) <br /><br />
+📝 I consistently share my Content [Check out my linkedin](https://www.linkedin.com/in/abinayasv/) <br /><br />
 
 ## My TECHNICAL CONTRIBUTION - Big Data Engineering Foundation
 
@@ -70,7 +72,24 @@ At the [Cloudnloud Tech Community](https://www.linkedin.com/company/cloudnloud/)
 - [Big Data Bytes - Mapreduce](https://www.linkedin.com/posts/abinayasv_mapreduce-activity-7064171828004491264-429H?utm_source=share&utm_medium=member_android)
 - [Big Data Bytes - Apache Spark vs Mapreduce](https://www.linkedin.com/posts/abinayasv_connections-bigdata-cloud-activity-7064676912744300544-EOBG?utm_source=share&utm_medium=member_android)
 - [Big Data Bytes - Apache Hive Partitioning](https://www.linkedin.com/posts/abinayasv_apache-hive-partitioning-activity-7073260439266103296-_Ur2?utm_source=share&utm_medium=member_android)
-- [Big Data Bytes - Apache Hive Partitioning](https://www.linkedin.com/posts/abinayasv_apache-hive-partitioning-activity-7073260439266103296-_Ur2?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Apache Hive ](https://www.linkedin.com/posts/abinayasv_apache-hive-activity-7071600601972805632-ItH7/?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Apache Hive Bucketing ](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-medium-activity-7073408576978911232-AHAS?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Apache Partitioning and  Bucketing ](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-medium-activity-7081790844738940928-klqi?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Apache Partitioning Handson ](https://www.linkedin.com/posts/abinayasv_apache-hive-partitioning-hands-on-activity-7082066329729466368-j6h2?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Fivetran ](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-cloud-activity-7085812004573089792-S5Sv?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Managed and external table ](https://www.linkedin.com/posts/abinayasv_managed-and-external-activity-7086705792120197120-S88N?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Complex Data Types](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-hive-activity-7087114297255858178-Ow48?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Why Denormalization](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-data-activity-7087401634821001216--LY7?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Hadoop Version](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-data-activity-7088137390183088128-ir6Y?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Single Point of Failure](https://www.linkedin.com/posts/abinayasv_bigdatabytes-data-bigdatabytes-activity-7088362532452630528-82VP?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Why Index Needed](https://www.linkedin.com/posts/abinayasv_bigdatabytes-data-bigdata-activity-7088518895996674048-4sid?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Why Index Needed](https://www.linkedin.com/posts/abinayasv_bigdatabytes-data-bigdata-activity-7088518895996674048-4sid?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Mapside Join](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-data-activity-7088721891670032384-3gpP?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Data Pipeline Flow](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-follow-activity-7088895912156024832-fl3M?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Table Level Optimization handson](https://www.linkedin.com/posts/abinayasv_table-level-optimization-hands-on-activity-7093247049374052352-GX6v?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - Hive and Spark](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-hive-activity-7093648134723031040-QYoS?utm_source=share&utm_medium=member_android)
+
+ 
 
   
 
