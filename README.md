@@ -127,7 +127,7 @@ Stay Tuned on my LinkedIn page to get insights about technology stacks. Below is
 
 
 ## AWS Code Pipeline-Youtube
-- [AWS EMR DATA PIPELINE](https://www.youtube.com/watch?v=gbR62L1j0wY&feature=share)
+- [AWS EMR DATA PIPELINE USING APACHE SPARK](https://www.youtube.com/watch?v=gbR62L1j0wY&feature=share)
 
 ## BLOGS ON PERSONAL GROWTH
 **Self-Development Posts**
