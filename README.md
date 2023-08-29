@@ -110,10 +110,10 @@ Stay Tuned on my LinkedIn page to get insights about technology stacks. Below is
  - [SQL - ROW NUMBER](https://www.linkedin.com/posts/abinayasv_30dayssqlchallenge-sql-bigdata-activity-7090691874344075264-ryCo?utm_source=share&utm_medium=member_android)
  - [SQL - LAG AND LEAD](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-sql-activity-7091840868445278208-iP64?utm_source=share&utm_medium=member_android)
  - [SQL - AGGREGATE AND WINDOW](https://www.linkedin.com/posts/abinayasv_30dayssqlchallenge-sql-bigdata-activity-7092040149437448192-hp3g?utm_source=share&utm_medium=member_android)
- - [SQL - GROUP BY NAD HAVING](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-bigdata-activity-7092459830174519296-3fMx?utm_source=share&utm_medium=member_android
+ - [SQL - GROUP BY AND HAVING](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-bigdata-activity-7092459830174519296-3fMx?utm_source=share&utm_medium=member_android)
  - [SQL - Cloning]( https://www.linkedin.com/posts/abinayasv_cloning-in-sql-activity-7100156769410113536-1yU1?utm_source=share&utm_medium=member_desktop)
- - [SQL - CTE] (https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-bigdata-activity-7098615956284833792-FzRA?utm_source=share&utm_medium=member_desktop)
- - [SQL - SQL vs NOSql] (https://www.linkedin.com/posts/abinayasv_sql-and-nosqlwhat-are-they-activity-7101632043742105600-AL5j?utm_source=share&utm_medium=member_desktop)
+ - [SQL - CTE](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-bigdata-activity-7098615956284833792-FzRA?utm_source=share&utm_medium=member_desktop)
+ - [SQL - SQL vs NOSql](https://www.linkedin.com/posts/abinayasv_sql-and-nosqlwhat-are-they-activity-7101632043742105600-AL5j?utm_source=share&utm_medium=member_desktop)
 
   
 
