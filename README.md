@@ -1,4 +1,4 @@
-<div id="header" align="center">
+![abi file (5)](https://github.com/abinayasv/abinayasv/assets/69671704/3ef351cb-1907-487e-969d-489e396df203)<div id="header" align="center">
   <img src="https://github.com/abinayasv/abi-images/blob/main/Google_Cloud_Data_Heroes_Series-xprqve-768x320.gif" width="400"/>
   <img src="https://github.com/abinayasv/abi-images/blob/main/into.jpg" width="300"/>
 </div>
@@ -93,6 +93,10 @@ Stay Tuned on my LinkedIn page to get insights about technology stacks. Below is
 - [Big Data Bytes - Data Pipeline Flow](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-follow-activity-7088895912156024832-fl3M?utm_source=share&utm_medium=member_android)
 - [Big Data Bytes - Table Level Optimization handson](https://www.linkedin.com/posts/abinayasv_table-level-optimization-hands-on-activity-7093247049374052352-GX6v?utm_source=share&utm_medium=member_android)
 - [Big Data Bytes - Hive and Spark](https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-hive-activity-7093648134723031040-QYoS?utm_source=share&utm_medium=member_android)
+- [Big Data Bytes - SQOOP](https://www.linkedin.com/posts/abinayasv_sqoop-the-transmitting-tool-activity-7100535665490067457-RmUT?utm_source=share&utm_medium=member_desktop)
+- [Big Data Bytes - SCALA and Pyspark]( https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-data-activity-7100806459705200640-HONO?utm_source=share&utm_medium=member_desktop)
+-[Big Data Bytes - Databricks English SDK] (https://www.linkedin.com/posts/abinayasv_connections-bigdatabytes-data-activity-7102313354278420480-wjni?utm_source=share&utm_medium=member_desktop)
+  
 
 **SQL series** 
  - [SQL - SQL SERIES](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-bigdata-activity-7065463676555726848-0yYF?utm_source=share&utm_medium=member_android)
@@ -104,7 +108,10 @@ Stay Tuned on my LinkedIn page to get insights about technology stacks. Below is
  - [SQL - ROW NUMBER](https://www.linkedin.com/posts/abinayasv_30dayssqlchallenge-sql-bigdata-activity-7090691874344075264-ryCo?utm_source=share&utm_medium=member_android)
  - [SQL - LAG AND LEAD](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-sql-activity-7091840868445278208-iP64?utm_source=share&utm_medium=member_android)
  - [SQL - AGGREGATE AND WINDOW](https://www.linkedin.com/posts/abinayasv_30dayssqlchallenge-sql-bigdata-activity-7092040149437448192-hp3g?utm_source=share&utm_medium=member_android)
- - [SQL - GROUP BY NAD HAVING](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-bigdata-activity-7092459830174519296-3fMx?utm_source=share&utm_medium=member_android)
+ - [SQL - GROUP BY NAD HAVING](https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-bigdata-activity-7092459830174519296-3fMx?utm_source=share&utm_medium=member_android
+ -[SQL - Cloning]( https://www.linkedin.com/posts/abinayasv_cloning-in-sql-activity-7100156769410113536-1yU1?utm_source=share&utm_medium=member_desktop)
+ -[SQL - CTE] (https://www.linkedin.com/posts/abinayasv_connections-30dayssqlchallenge-bigdata-activity-7098615956284833792-FzRA?utm_source=share&utm_medium=member_desktop)
+ - [SQL - SQL vs NOSql] (https://www.linkedin.com/posts/abinayasv_sql-and-nosqlwhat-are-they-activity-7101632043742105600-AL5j?utm_source=share&utm_medium=member_desktop)
 
   
 
@@ -114,8 +121,17 @@ Stay Tuned on my LinkedIn page to get insights about technology stacks. Below is
 - [HDFS ARCHITECHTUTRE](https://medium.com/cloudnloud/hdfs-architecture-3c838c38b9a5)
 - [MAPREDUCE CONCEPT](https://medium.com/cloudnloud/mapreduce-60b174e4252f)
 - [APACHE HIVE](https://medium.com/cloudnloud/apache-hive-924879e2d22c)
+- [SQOOP](https://medium.com/cloudnloud/lets-have-a-knowledge-about-sqoop-d7ac24e27cfd)
 
 
+## AWS Code Pipeline-Youtube
+- [AWS EMR DATA PIPELINE](https://www.youtube.com/watch?v=gbR62L1j0wY&feature=share)
+
+## BLOGS ON PERSONAL GROWTH
+**Self-Development Posts**
+- [Power of YET](https://www.linkedin.com/posts/abinayasv_selfdevelopment-inspiration-growthmindset-activity-7100306595653316608-MySR?utm_source=share&utm_medium=member_desktop)
+- [Personal Growth](https://www.linkedin.com/posts/abinayasv_selfdevelopment-inspiration-growthmindset-activity-7101029718300262400-LpE3?utm_source=share&utm_medium=member_desktop)
+- [Your Mindset](https://www.linkedin.com/posts/abinayasv_selfdevelopment-mindset-growthmindset-activity-7098859290374901760-9Z9g?utm_source=share&utm_medium=member_desktop)
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆 
 
@@ -138,6 +154,8 @@ We are part of this for good cause to save millions of Cancer children.
   <img src="https://github.com/abinayasv/abi-images/blob/main/monolithic.png" alt="Image 12" style="width:30%;">
   <img src="https://github.com/abinayasv/abi-images/blob/main/WhatsApp%20Image%202023-08-09%20at%2014.26.14.jpeg" alt="Image 12" style="width:30%;"> 
   <img src="https://github.com/abinayasv/abi-images/blob/main/tables.jpg" alt="Image 13" style="width:30%;">
+  <img src="https://github.com/abinayasv/abinayasv/assets/69671704/48dd9723-2054-4a0c-9f00-2332e1007ee9" alt="Image 13" style="width:30%;">
+  <img src="https://github.com/abinayasv/abinayasv/assets/69671704/83692cc9-b8f6-406b-a10e-27a32e9868eb" alt="Image 13" style="width:30%;">
 </div>
 
 # AWS DATA PIPELINE (Content Contribution)
