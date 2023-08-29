@@ -1,6 +1,8 @@
-![abi file (5)](https://github.com/abinayasv/abinayasv/assets/69671704/3ef351cb-1907-487e-969d-489e396df203)<div id="header" align="center">
+<div>
+  	
   <img src="https://github.com/abinayasv/abi-images/blob/main/Google_Cloud_Data_Heroes_Series-xprqve-768x320.gif" width="400"/>
-  <img src="https://github.com/abinayasv/abi-images/blob/main/into.jpg" width="300"/>
+  <img src="https://github.com/abinayasv/abi-images/blob/main/into.jpg" width="300"/> 
+
 </div>
 
 
