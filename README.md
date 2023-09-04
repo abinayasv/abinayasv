@@ -1,7 +1,7 @@
 <div>
   	
   <img src="https://github.com/abinayasv/abi-images/blob/main/Google_Cloud_Data_Heroes_Series-xprqve-768x320.gif" width="400"/>
-  <img src="https://github.com/abinayasv/abi-images/blob/main/into.jpg" width="300"/> 
+  <img src="WhatsApp Image 2023-08-09 at 14.26.14.jpeg" width="300"/> 
 
 </div>
 
