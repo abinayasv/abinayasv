@@ -121,6 +121,19 @@ Passionate about data engineering, analytics, and community building. With over 
 ### 🎙️ Podcast
 Check out my podcast on data engineering and AI topics [here on Spotify](https://open.spotify.com/show/0dhRfTXjhWAOzbgEBFKujz?si=f6abd4328d1d42d4).
 
+## Participation in AWS UG Dehradun
+
+### Best Party Rock Submission  
+[Check out the LinkedIn post here](https://www.linkedin.com/posts/aws-user-group-dehradun_awsgenaibootcamp-innovation-techcommunity-activity-7222656699617177600-MUam?utm_source=share&utm_medium=member_android)
+
+## AWS Hackathon Gen AI Bootcamp
+I was part of the winning team for the best project during the AWS Hackathon at the Gen AI Bootcamp.  
+[Check out the LinkedIn post here](https://www.linkedin.com/posts/ugcPost-7225008122191339520-WiOhutm_source=share&utm_medium=member_android)
+
+## Gen AI Bootcamp Video  
+[Watch the YouTube video](https://youtu.be/XYMqWF_j6nc?si=t6HH2wzzM-zDONaK)
+
+
 ---
 
 Thank you for stopping by my GitHub profile! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/abinayasv/) and explore more about my journey in data engineering and community engagement.
