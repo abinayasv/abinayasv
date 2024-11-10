@@ -43,7 +43,7 @@ Passionate about data engineering, analytics, and community building. With over 
 9. **CI and CD**  
    [Listen on Spotify](https://open.spotify.com/episode/0bEBnRxkOWZkWIXOkKtQaR?si=gSfPNCNYRru-ffgHTA5fvw)
 
-## AWS-Specific Episodes
+## AWS Episodes
 
 1. **AWS Data with Security Services**  
    [Listen on Spotify](https://open.spotify.com/episode/2sx2HwaGP4K9vNsswFpeEg?si=Yi8RwWc7RkyZXZZnUZz-SQ)
