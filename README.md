@@ -12,7 +12,59 @@ Passionate about data engineering, analytics, and community building. With over 
 - **AWS 30 Days of Amplify**: [LinkedIn Post](https://www.linkedin.com/posts/abinayasv_30daysofamplify-awscommunity-aws-activity-7257346494121312256-5p17?utm_source=share&utm_medium=member_android)
 - **Apache Kafka Event**: [Event Page](https://www.meetup.com/chennai-kafka/events/302419078/)
 
+# Podcast Episode Links
 
+## General Episodes
+
+1. **Data with Security**  
+   [Listen on Spotify](https://open.spotify.com/episode/7ALKBYYNGEOzbKJqSdCngH?si=E2SpAWeYQv6xxdShDhGf1w)
+
+2. **Cloud Fundamentals**  
+   [Listen on Spotify](https://open.spotify.com/episode/2luUqb03ePVIPFOUcQAgUa?si=fHpJDBVdTP6kYO1JgiVL1A)
+
+3. **AI Bias**  
+   [Listen on Spotify](https://open.spotify.com/episode/14hi9x7apoENyq8xEAeLUP?si=3-e1PZuYSIiPm5pQHx1bQw)
+
+4. **Ethical Accountability**  
+   [Listen on Spotify](https://open.spotify.com/episode/3cdW5GGyob00GSxPvSO7Ub?si=8iRco4xfRfmlb1Rfc1rZMA)
+
+5. **AI Regulation**  
+   [Listen on Spotify](https://open.spotify.com/episode/3NYGc0pdH6yTgPRjNBdY3H?si=-nOh5og4T06WbJkkqZ4RRw)
+
+6. **Ethical Consideration**  
+   [Listen on Spotify](https://open.spotify.com/episode/3NYGc0pdH6yTgPRjNBdY3H?si=-nOh5og4T06WbJkkqZ4RRw)
+
+7. **AI Governance**  
+   [Listen on Spotify](https://open.spotify.com/episode/6zUMe8hwmEMpPgum0cVyFg?si=SDYUgG9nROOl_Pb_0Y1VXw)
+
+8. **DevOps Intro**  
+   [Listen on Spotify](https://open.spotify.com/episode/3qRCyjLQtxgWgtZDecZyrq?si=RshPDRmqQ524O3OHXQz9gg)
+
+9. **CI and CD**  
+   [Listen on Spotify](https://open.spotify.com/episode/0bEBnRxkOWZkWIXOkKtQaR?si=gSfPNCNYRru-ffgHTA5fvw)
+
+## AWS-Specific Episodes
+
+1. **AWS Data with Security Services**  
+   [Listen on Spotify](https://open.spotify.com/episode/2sx2HwaGP4K9vNsswFpeEg?si=Yi8RwWc7RkyZXZZnUZz-SQ)
+
+2. **AWS S3 Bytes**  
+   [Listen on Spotify](https://open.spotify.com/episode/3qbt2rckEUL4V4OStXaUS8?si=FAihZlYBQ6aR5NXZgRopLA)
+
+3. **AWS IAM**  
+   [Listen on Spotify](https://open.spotify.com/episode/3qbt2rckEUL4V4OStXaUS8?si=FAihZlYBQ6aR5NXZgRopLA)
+
+4. **AWS Redshift**  
+   [Listen on Spotify](https://open.spotify.com/episode/7zlOhYt0mXjg2WhV65hntZ?si=z7wPi8fbRhaddkXVEX-q6Q)
+
+5. **AWS RDS**  
+   [Listen on Spotify](https://open.spotify.com/episode/3CEOsXYs2i1laYlMO32JYG?si=iuvmoTCJS0aWrY6bN3Uiug)
+
+6. **AWS CI/CD**  
+   [Listen on Spotify](https://open.spotify.com/episode/0bEBnRxkOWZkWIXOkKtQaR?si=gSfPNCNYRru-ffgHTA5fvw)
+
+7. **AWS Well-Architected Framework**  
+   [Listen on Spotify](https://open.spotify.com/episode/2HXifOWN1S2ttpQeS1SqUk?si=fwujo3MiTm-pL6NhRRm8kw)
 
 ### 📚 Blog Series: Big Data Bytes
 
