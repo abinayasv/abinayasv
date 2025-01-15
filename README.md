@@ -11,11 +11,13 @@ Passionate about data engineering, analytics, and community building. With over 
   - [Personal Contribution](https://www.linkedin.com/posts/abinayasv_awssecurity-awscloudcommunityday2024-awscloudclubsjit-activity-7162195117150261249-FbUC?utm_source=share&utm_medium=member_android)
 - **AWS 30 Days of Amplify**: [LinkedIn Post](https://www.linkedin.com/posts/abinayasv_30daysofamplify-awscommunity-aws-activity-7257346494121312256-5p17?utm_source=share&utm_medium=member_android)
 - **Apache Kafka Event**: [Event Page](https://www.meetup.com/chennai-kafka/events/302419078/)
-- 
-###Community Journey :
---[2024 Rewind](https://www.linkedin.com/pulse/2024-year-unplanned-growth-community-learning-abi-abinaya-s-v-lndvc/?trackingId=bfQi0NlKP1DWL%2FybjaRFpw%3D%3D)
---[AWS Community Corner 1 POST ](https://www.linkedin.com/pulse/aws-community-corner-jun-22-jul-1-2024-veliswa-boya-5z7vf/?trackingId=rH6Wj4j7REq%2FxsmaSdUORA%3D%3D)
---[AWS Community Corner 2 POST](https://www.linkedin.com/feed/update/urn:li:activity:7194684607634558979/)
+  
+### COMMUNITY CORNER
+[2024 Rewind](https://www.linkedin.com/pulse/2024-year-unplanned-growth-community-learning-abi-abinaya-s-v-lndvc/?trackingId=bfQi0NlKP1DWL%2FybjaRFpw%3D%3D)
+
+[AWS Community Corner 1 POST ](https://www.linkedin.com/pulse/aws-community-corner-jun-22-jul-1-2024-veliswa-boya-5z7vf/?trackingId=rH6Wj4j7REq%2FxsmaSdUORA%3D%3D)
+
+[AWS Community Corner 2 POST](https://www.linkedin.com/feed/update/urn:li:activity:7194684607634558979/)
 
   ### 📚 AWS Blogs
 1. [Amazon Q - Productivity Tool](https://medium.com/@abinayasv/from-can-it-do-this-to-wait-it-can-do-that-boosting-productivity-with-amazon-q-aeac61465d47)
