@@ -12,6 +12,51 @@ Passionate about data engineering, analytics, and community building. With over 
 - **AWS 30 Days of Amplify**: [LinkedIn Post](https://www.linkedin.com/posts/abinayasv_30daysofamplify-awscommunity-aws-activity-7257346494121312256-5p17?utm_source=share&utm_medium=member_android)
 - **Apache Kafka Event**: [Event Page](https://www.meetup.com/chennai-kafka/events/302419078/)
 
+  ### 📚 AWS Blogs
+1. [Amazon Q - Productivity Tool](https://medium.com/@abinayasv/from-can-it-do-this-to-wait-it-can-do-that-boosting-productivity-with-amazon-q-aeac61465d47)
+2. [AWS IAM](https://medium.com/@abinayasv/aws-iam-4a8c4df48b98)
+3. [Amazon QuickSight Intro](https://medium.com/@abinayasv/amazon-quicksight-part-1-3fe5d0eb8673)
+4. [Amazon QuickSight Data Connectivity and Security on AWS](https://medium.com/@abinayasv/amazon-quicksight-part-2-084b997f9bef)
+
+### 🎙️ Podcast
+Check out my podcast on data engineering and AI topics [here on Spotify](https://open.spotify.com/show/0dhRfTXjhWAOzbgEBFKujz?si=f6abd4328d1d42d4).
+
+## Participation in AWS UG Dehradun
+
+### Best Party Rock Submission  
+[Check out the LinkedIn post here](https://www.linkedin.com/posts/aws-user-group-dehradun_awsgenaibootcamp-innovation-techcommunity-activity-7222656699617177600-MUam?utm_source=share&utm_medium=member_android)
+
+## AWS Hackathon Gen AI Bootcamp
+I was part of the winning team for the best project during the AWS Hackathon at the Gen AI Bootcamp.  
+[Check out the LinkedIn post here](https://www.linkedin.com/posts/ugcPost-7225008122191339520-WiOhutm_source=share&utm_medium=member_android)
+
+## Gen AI Bootcamp Video  
+[Watch the YouTube video](https://youtu.be/XYMqWF_j6nc?si=t6HH2wzzM-zDONaK)
+
+## AWS Episodes
+
+1. **AWS Data with Security Services**  
+   [Listen on Spotify](https://open.spotify.com/episode/2sx2HwaGP4K9vNsswFpeEg?si=Yi8RwWc7RkyZXZZnUZz-SQ)
+
+2. **AWS S3 Bytes**  
+   [Listen on Spotify](https://open.spotify.com/episode/3qbt2rckEUL4V4OStXaUS8?si=FAihZlYBQ6aR5NXZgRopLA)
+
+3. **AWS IAM**  
+   [Listen on Spotify](https://open.spotify.com/episode/3qbt2rckEUL4V4OStXaUS8?si=FAihZlYBQ6aR5NXZgRopLA)
+
+4. **AWS Redshift**  
+   [Listen on Spotify](https://open.spotify.com/episode/7zlOhYt0mXjg2WhV65hntZ?si=z7wPi8fbRhaddkXVEX-q6Q)
+
+5. **AWS RDS**  
+   [Listen on Spotify](https://open.spotify.com/episode/3CEOsXYs2i1laYlMO32JYG?si=iuvmoTCJS0aWrY6bN3Uiug)
+
+6. **AWS CI/CD**  
+   [Listen on Spotify](https://open.spotify.com/episode/0bEBnRxkOWZkWIXOkKtQaR?si=gSfPNCNYRru-ffgHTA5fvw)
+
+7. **AWS Well-Architected Framework**  
+   [Listen on Spotify](https://open.spotify.com/episode/2HXifOWN1S2ttpQeS1SqUk?si=fwujo3MiTm-pL6NhRRm8kw)
+
+
 # Podcast Episode Links
 
 ## General Episodes
@@ -43,28 +88,6 @@ Passionate about data engineering, analytics, and community building. With over 
 9. **CI and CD**  
    [Listen on Spotify](https://open.spotify.com/episode/0bEBnRxkOWZkWIXOkKtQaR?si=gSfPNCNYRru-ffgHTA5fvw)
 
-## AWS Episodes
-
-1. **AWS Data with Security Services**  
-   [Listen on Spotify](https://open.spotify.com/episode/2sx2HwaGP4K9vNsswFpeEg?si=Yi8RwWc7RkyZXZZnUZz-SQ)
-
-2. **AWS S3 Bytes**  
-   [Listen on Spotify](https://open.spotify.com/episode/3qbt2rckEUL4V4OStXaUS8?si=FAihZlYBQ6aR5NXZgRopLA)
-
-3. **AWS IAM**  
-   [Listen on Spotify](https://open.spotify.com/episode/3qbt2rckEUL4V4OStXaUS8?si=FAihZlYBQ6aR5NXZgRopLA)
-
-4. **AWS Redshift**  
-   [Listen on Spotify](https://open.spotify.com/episode/7zlOhYt0mXjg2WhV65hntZ?si=z7wPi8fbRhaddkXVEX-q6Q)
-
-5. **AWS RDS**  
-   [Listen on Spotify](https://open.spotify.com/episode/3CEOsXYs2i1laYlMO32JYG?si=iuvmoTCJS0aWrY6bN3Uiug)
-
-6. **AWS CI/CD**  
-   [Listen on Spotify](https://open.spotify.com/episode/0bEBnRxkOWZkWIXOkKtQaR?si=gSfPNCNYRru-ffgHTA5fvw)
-
-7. **AWS Well-Architected Framework**  
-   [Listen on Spotify](https://open.spotify.com/episode/2HXifOWN1S2ttpQeS1SqUk?si=fwujo3MiTm-pL6NhRRm8kw)
 
 ### 📚 Blog Series: Big Data Bytes
 
@@ -111,28 +134,6 @@ Passionate about data engineering, analytics, and community building. With over 
 1. [DBT Intro](https://medium.com/@abinayasv/dbt-2ab508fadbd5)
 2. [Data Transformation with DBT and MySQL](https://medium.com/dev-genius/data-transformation-with-dbt-and-mysql-63dbf35150fc)
 3. [DBT Project 1 with Snowflake](https://medium.com/dev-genius/dbt-project-1-3dda74f60c26)
-
-### 📚 AWS Blogs
-1. [Amazon Q - Productivity Tool](https://medium.com/@abinayasv/from-can-it-do-this-to-wait-it-can-do-that-boosting-productivity-with-amazon-q-aeac61465d47)
-2. [AWS IAM](https://medium.com/@abinayasv/aws-iam-4a8c4df48b98)
-3. [Amazon QuickSight Intro](https://medium.com/@abinayasv/amazon-quicksight-part-1-3fe5d0eb8673)
-4. [Amazon QuickSight Data Connectivity and Security on AWS](https://medium.com/@abinayasv/amazon-quicksight-part-2-084b997f9bef)
-
-### 🎙️ Podcast
-Check out my podcast on data engineering and AI topics [here on Spotify](https://open.spotify.com/show/0dhRfTXjhWAOzbgEBFKujz?si=f6abd4328d1d42d4).
-
-## Participation in AWS UG Dehradun
-
-### Best Party Rock Submission  
-[Check out the LinkedIn post here](https://www.linkedin.com/posts/aws-user-group-dehradun_awsgenaibootcamp-innovation-techcommunity-activity-7222656699617177600-MUam?utm_source=share&utm_medium=member_android)
-
-## AWS Hackathon Gen AI Bootcamp
-I was part of the winning team for the best project during the AWS Hackathon at the Gen AI Bootcamp.  
-[Check out the LinkedIn post here](https://www.linkedin.com/posts/ugcPost-7225008122191339520-WiOhutm_source=share&utm_medium=member_android)
-
-## Gen AI Bootcamp Video  
-[Watch the YouTube video](https://youtu.be/XYMqWF_j6nc?si=t6HH2wzzM-zDONaK)
-
 
 ---
 
