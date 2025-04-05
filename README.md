@@ -1,16 +1,25 @@
 # Hello, Hello Abi Here ✨️🚀 👋
 
-Passionate about data engineering, analytics, and community building. With over 2 years of experience, I create content, write blogs, and host podcasts focused on data engineering and AI. I also present at various events and actively volunteer to organize community events.
+Passionate about data engineering, analytics, and community engagement. I'm an AWS Community Builder and working as an Associate with 2.8 years of experience. I host a tech podcast and write blogs focused on data engineering and AI. I'm also part of AWS UG Women in Tech Chennai Chapter and actively participate in organizing and speaking at community events.
 
 
 ### 🌐Presentation and Community Engagement
+- **AWS SHE TECH DAY 2025** : [LinkedIn POST](https://www.linkedin.com/posts/abinayasv_aws-community-activity-7309828350615662592-ljAW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1z7TsBj6_ceWI9AC3F7lqWjPe9RWoRmLg)
+
 - **AWS She Tech Day 2024**: [LinkedIn Post](https://www.linkedin.com/posts/abinayasv_awshetechday-activity-7219906680107491329-SFYn?utm_source=share&utm_medium=member_android)
+
 - **Databricks Community Event**: [LinkedIn Post](https://www.linkedin.com/posts/abinayasv_databricks-onlineevent-gratitude-activity-7203350420998516736-GriT?utm_source=share&utm_medium=member_android)
+
 - **AWS Cloud Club 2024**:
   - [Event Details](https://www.linkedin.com/posts/aws-cloud-club-stjosephs_awsabrstudentabrcommunityabrdayabr2024-awsabrcloudabrclubs-activity-7167018159680475136-jwLg?utm_source=share&utm_medium=member_android)
   - [Personal Contribution](https://www.linkedin.com/posts/abinayasv_awssecurity-awscloudcommunityday2024-awscloudclubsjit-activity-7162195117150261249-FbUC?utm_source=share&utm_medium=member_android)
+
 - **AWS 30 Days of Amplify**: [LinkedIn Post](https://www.linkedin.com/posts/abinayasv_30daysofamplify-awscommunity-aws-activity-7257346494121312256-5p17?utm_source=share&utm_medium=member_android)
+
 - **Apache Kafka Event**: [Event Page](https://www.meetup.com/chennai-kafka/events/302419078/)
+
+- **AWS UG Dehradun Steal the Spotlight**  on S3 Lifecycle Management: From Basics to Best Practices [LinkedIn Post](https://www.linkedin.com/posts/aws-user-group-dehradun_aws-community-stealthespotlight-ugcPost-7310667959243350016-kOB1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1z7TsBj6_ceWI9AC3F7lqWjPe9RWoRmLg)
+
   
 ### COMMUNITY CORNER
 [2024 Rewind](https://www.linkedin.com/pulse/2024-year-unplanned-growth-community-learning-abi-abinaya-s-v-lndvc/?trackingId=bfQi0NlKP1DWL%2FybjaRFpw%3D%3D)
@@ -64,6 +73,24 @@ I was part of the winning team for the best project during the AWS Hackathon at 
    [Listen on Spotify](https://open.spotify.com/episode/2HXifOWN1S2ttpQeS1SqUk?si=fwujo3MiTm-pL6NhRRm8kw)
 
 
+8. **Amazon Lex**  
+   [Listen on Spotify](https://open.spotify.com/episode/1sZ5bBtDRDPnZwuKo3kJ0D)
+
+9. **Amazon Personalize**  
+   [Listen on Spotify](https://open.spotify.com/episode/4Rx39tLtQnPlseZxxNBz6L)
+
+10. **Amazon Bedrock Models**  
+   [Listen on Spotify](https://open.spotify.com/episode/4iyBVtJIexU7XMFDvV4iKm)
+
+11. **Amazon's AI-powered Assistant**  
+   _Designed to help businesses, developers, and AWS users._  
+   [Listen on Spotify](https://open.spotify.com/episode/54JyhHXzxOSJBxwJpJHGx5)
+
+12. **Amazon Bedrock Overview**  
+   [Listen on Spotify](https://open.spotify.com/episode/0RP8Yjjvd5wtnsvaw8w1jj)
+
+
+
 # Podcast Episode Links
 
 ## General Episodes
@@ -94,6 +121,14 @@ I was part of the winning team for the best project during the AWS Hackathon at 
 
 9. **CI and CD**  
    [Listen on Spotify](https://open.spotify.com/episode/0bEBnRxkOWZkWIXOkKtQaR?si=gSfPNCNYRru-ffgHTA5fvw)
+
+### 🎧 CNCF Podcasts
+
+1. **Episode 1**  
+   [Listen on Spotify](https://open.spotify.com/episode/2bPRjyHhW8MR1EO6Acfk7n)
+
+2. **Episode 2**  
+   [Listen on Spotify](https://open.spotify.com/episode/7dr181n2wMa2UjzeJQvWSE)
 
 
 ### 📚 Blog Series: Big Data Bytes
