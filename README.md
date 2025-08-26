@@ -10,15 +10,15 @@ Passionate about data engineering, analytics, and community engagement. I'm an A
 
 - **Databricks Community Event**: [LinkedIn Post](https://www.linkedin.com/posts/abinayasv_databricks-onlineevent-gratitude-activity-7203350420998516736-GriT?utm_source=share&utm_medium=member_android)
 
-- **AWS Cloud Club 2024**:
-  - [Event Details](https://www.linkedin.com/posts/aws-cloud-club-stjosephs_awsabrstudentabrcommunityabrdayabr2024-awsabrcloudabrclubs-activity-7167018159680475136-jwLg?utm_source=share&utm_medium=member_android)
-  - [Personal Contribution](https://www.linkedin.com/posts/abinayasv_awssecurity-awscloudcommunityday2024-awscloudclubsjit-activity-7162195117150261249-FbUC?utm_source=share&utm_medium=member_android)
+- **AWS Cloud Club 2024**:[Linkedin Post](https://www.linkedin.com/posts/abinayasv_awssecurity-awscloudcommunityday2024-awscloudclubsjit-activity-7162195117150261249-FbUC?utm_source=share&utm_medium=member_android)
 
 - **AWS 30 Days of Amplify**: [LinkedIn Post](https://www.linkedin.com/posts/abinayasv_30daysofamplify-awscommunity-aws-activity-7257346494121312256-5p17?utm_source=share&utm_medium=member_android)
 
 - **Apache Kafka Event**: [Event Page](https://www.meetup.com/chennai-kafka/events/302419078/)
 
-- **AWS UG Dehradun Steal the Spotlight**  on S3 Lifecycle Management: From Basics to Best Practices [LinkedIn Post](https://www.linkedin.com/posts/aws-user-group-dehradun_aws-community-stealthespotlight-ugcPost-7310667959243350016-kOB1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1z7TsBj6_ceWI9AC3F7lqWjPe9RWoRmLg)
+- **AWS UG Dehradun Steal the Spotlight**  on S3 Lifecycle Management: From Basics to Best Practices [LinkedIn Post](https://www.linkedin.com/posts/aws-user-group-dehradun_aws-community-stealthespotlight-ugcPost-7310667959243350016-kOB1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1z7TsBj6_ceWI9AC3F7lqWjPe9RWoRmLg))
+
+- **TOSS CONF 2025** [Linkedin Post](https://www.linkedin.com/posts/abinayasv_amazonq-activity-7353320673487851522-TLzh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1z7TsBj6_ceWI9AC3F7lqWjPe9RWoRmLg)
 
   
 ### COMMUNITY CORNER
@@ -27,6 +27,8 @@ Passionate about data engineering, analytics, and community engagement. I'm an A
 [AWS Community Corner 1 POST ](https://www.linkedin.com/pulse/aws-community-corner-jun-22-jul-1-2024-veliswa-boya-5z7vf/?trackingId=rH6Wj4j7REq%2FxsmaSdUORA%3D%3D)
 
 [AWS Community Corner 2 POST](https://www.linkedin.com/feed/update/urn:li:activity:7194684607634558979/)
+
+[AWS Blog Spotlight](https://www.linkedin.com/posts/awsugmdu_buildersskillsprint-awsserverless-serverless-ugcPost-7358875674473885696-SVJK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1z7TsBj6_ceWI9AC3F7lqWjPe9RWoRmLg)
 
   ### 📚 AWS Blogs
 1. [Amazon Q - Productivity Tool](https://medium.com/@abinayasv/from-can-it-do-this-to-wait-it-can-do-that-boosting-productivity-with-amazon-q-aeac61465d47)
@@ -88,7 +90,6 @@ I was part of the winning team for the best project during the AWS Hackathon at 
 
 12. **Amazon Bedrock Overview**  
    [Listen on Spotify](https://open.spotify.com/episode/0RP8Yjjvd5wtnsvaw8w1jj)
-
 
 
 # Podcast Episode Links
